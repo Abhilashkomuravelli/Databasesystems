@@ -1,8 +1,0 @@
-Insert into PropertyRented values(
-1, 2100, 3000, 1000, '12-Feb-2021', '12-Feb-2022', 2100);
-
-Insert into PropertyRented values(
-2, 3100, 3000, 1000, '30-Jan-2020', '30-Jan-2022', 2000);
-
-Insert into PropertyRented values(
-1, 2500, 3000, 1000, '21-Mar-2020', '21-Mar-2021', 1100);
