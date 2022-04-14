@@ -1,8 +1,0 @@
-Insert into PropertySold values(
-1, 'New York', 'Midlands', 'Independent Villa', 'House with pool and garden', 4500000, 10, 2300, 2000);
-
-Insert into PropertySold values(
-2, 'California', 'Guinea', 'Independent Villa', 'House with pool and garden', 5500000, 13, 4500, 4000);
-
-Insert into PropertySold values(
-1, 'Washington', 'Westlands', 'Independent Villa', 'House with pool and garden', 3500000, 8, 1300, 1000);
