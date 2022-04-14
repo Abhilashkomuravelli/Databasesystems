@@ -1,0 +1,8 @@
+"Insert into Customer values("
+"1, 'Sam', 'New York', '01-Jan-1996', 'Female', 9865742812, 'Buyer');"
+""
+"Insert into Customer values("
+"2, 'Ram', 'US', '21-Feb-1994', 'Male', 7865742812, 'Landlord');"
+""
+"Insert into Customer values("
+"3, 'Krish', 'New York', '19-Mar-1998', 'Male', 8865742812, 'Tenant');"
