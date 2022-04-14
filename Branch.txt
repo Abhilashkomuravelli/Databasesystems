@@ -1,8 +1,0 @@
-Insert into Branch values(
-78965, 'New York', 8790678900);
-
-Insert into Branch values(
-78970, 'California', 7790678900);
-
-Insert into Branch values(
-78975, 'Washington', 9790678900);
