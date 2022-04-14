@@ -1,8 +1,0 @@
-Insert into Staff values(
-1, 'Tom', 'New York', 8700980089);
-
-Insert into Staff values(
-2, 'Henry', 'Washington', 7700980089);
-
-Insert into Staff values(
-3, 'Isla', 'California', 9700980089);
