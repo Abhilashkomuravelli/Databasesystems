@@ -1,8 +1,0 @@
-Insert into AdvertisingProperty values(
-1, 'Midlands', 'NewYork'); 
-
-Insert into AdvertisingProperty values(
-2, 'Guinea', 'Washington'); 
-
-Insert into AdvertisingProperty values(
-3, 'Westlands', 'California'); 
