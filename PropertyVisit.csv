@@ -1,8 +1,0 @@
-"Insert into PropertyVisit values("
-"1, '12-Feb-2021', '11:00:00', 'Good view');"
-""
-"Insert into PropertyVisit values("
-"2, '13-Feb-2021', '12:00:00', 'Good maintenance');"
-""
-"Insert into PropertyVisit values("
-"3, '14-Feb-2021', '10:00:00', 'Clean and neat');"
