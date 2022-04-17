@@ -1,0 +1,4 @@
+ID,Name, Address ,BirthDate, Gender ,PhoneNumber, Type,Code
+1,Sam,New York,01-01-1996,Female,9865742812,Buyer,78965
+2,Ram,US,21-02-1994,Male,7865742812,Landlord,78970
+3,Krish,New York,19-03-1998,Male,8865742812,Tenant,78975
